@@ -1,0 +1,1 @@
+MICRO_SHOP_DEBUG=true go run main.go -c configs/dev.yaml
